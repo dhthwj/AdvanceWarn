@@ -1,0 +1,9 @@
+name: AdvanceWarn
+api: 3.10.0
+version: 1.0.0
+main: AdvanceWarn\AdvanceWarn
+author: AvasKr
+
+permission:
+  advance.warn.command:
+    default: op
